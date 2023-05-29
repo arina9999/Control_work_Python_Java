@@ -1,0 +1,27 @@
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
+
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
+
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
+
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
+
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
+
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
+
+id: 3, weight: 6, name: кукла
+id: 1, weight: 2, name: конструктор
+id: 2, weight: 2, name: робот
